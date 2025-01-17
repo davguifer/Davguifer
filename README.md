@@ -44,5 +44,6 @@
 <br/>
 
 
-![Texto alternativo](https://cdn.discordapp.com/attachments/1236065368108306564/1254107275807690792/origen-nombres-informatica-nunca-hubieras-imaginado_2.webp?ex=667849ea&is=6676f86a&hm=64fe6667551793782150a5d23e25fb28b3e2547c9018cdd142890481baa33eb5&)
+![image](https://github.com/user-attachments/assets/e0e37435-2327-4820-ad3c-9c30a9f3b206)
+
 
