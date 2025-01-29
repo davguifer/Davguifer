@@ -53,6 +53,7 @@
   ![DBeaver](https://img.shields.io/badge/DBeaver-1F425F?style=for-the-badge&logo=database&logoColor=white)
   ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-0078D6?style=for-the-badge&logo=microsoft-access&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&labelColor=black)
